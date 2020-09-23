@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Starter: Minimal Blog
+  All things JavaScript - A Blog by Ashish Nandan Singh
 </h1>
 
 <p align="center">
@@ -15,8 +15,12 @@
   <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
     <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
   </a>
+  <a href="https://twitter.com/intent/follow?screen_name=ashishnandansin">
+    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@ashishnandansin" alt="Follow @ashishnandansin" />
+  </a>
 </p>
 
+This project is bootstrapped using starter blog theme from Lekoarts
 Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting. Using the Gatsby Theme [`@lekoarts/gatsby-theme-minimal-blog`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-minimal-blog).
 
 [**Demo Website**](https://minimal-blog.lekoarts.de)
