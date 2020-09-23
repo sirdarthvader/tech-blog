@@ -6,7 +6,7 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE;
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `A blog by Ashish Singh`,
+    siteTitleAlt: `All Things JavaScript - A blog by Ashish Singh`,
   },
   plugins: [
     {
@@ -38,16 +38,16 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: process.env.GOOGLE_ANALYTICS_ID,
+        trackingId: "UA-178422913-1",
       },
     },
     `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
-        short_name: `minimal-blog`,
-        description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
+        name: `All Things JavaScript - A blog by Ashish Singh`,
+        short_name: `All things JavaScript`,
+        description: `A minimal tech blog about all things javascript`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#6B46C1`,
