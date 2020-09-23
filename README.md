@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=ashishnandansin">
-    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@ashishnandansin" alt="Follow @ashishnandansin" />
+    
   </a>
 </p>
 
