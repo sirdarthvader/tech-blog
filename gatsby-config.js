@@ -10,6 +10,10 @@ module.exports = {
     siteTitleAlt: `All Things JavaScript - A blog by Ashish Singh`,
     siteHeadline: `JavaScript Blog`,
     siteLanguage: `en`,
+    title: "My Blog",
+    author: "Ashish Singh",
+    description: "All Things JavaScript - A blog by Ashish Singh",
+    siteUrl: "https://theclever.dev/",
   },
   plugins: [
     {
